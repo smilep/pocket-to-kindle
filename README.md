@@ -7,6 +7,9 @@ Only article type Pocket items supported.
 ### How to run
 1. Populate application.properties
 ```
+# web driver location
+driver.path=
+
 # pocket
 pocket.url=https://getpocket.com/
 pocket.username=
